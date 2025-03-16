@@ -5,6 +5,7 @@
   "dependencies": {
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@ffmpeg/util": "^0.12.2",
+    "@huggingface/transformers": "^3.4.0",
     "@richardx/components": "^0.4.3",
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
